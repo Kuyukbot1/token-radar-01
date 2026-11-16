@@ -1,3 +1,9 @@
+[![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/Kuyukbot1/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/Kuyukbot1/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01)
+
+An entry for the [make.fun bounty](https://make.fun/bounty/token-radar-01).
+
 # Token Radar — token-radar-01
 
 The best token launch radar: a program that reads a sealed snapshot of every
